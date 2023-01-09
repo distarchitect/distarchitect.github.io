@@ -1,2 +1,2 @@
-# 
-Distinguished Architect Homepage
+# Distinguished Architect
+Homepage for Distinguished Architect
